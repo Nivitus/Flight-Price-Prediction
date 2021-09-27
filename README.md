@@ -24,14 +24,13 @@
 
 ## Overview
 
-For this project , I have create deep learning model convolutional neural network(CNN) using keras library for our project cotton disease prediction . First of all, why I am using CNN because CNNs are used for image classification and recognition because of its high accuracy. The CNN follows a hierarchical model which works on building a network, like a funnel, and finally gives out a fully-connected layer where all the neurons are connected to each other and the output is processed.
+The objective of this article is to predict flight prices given the various parameters. Data used in this article is publicly available at Kaggle. This will be a regression problem since the target or dependent variable is the price. Airline companies use complex algorithms to calculate flight prices given various conditions present at that particular time. These methods take financial, marketing, and various social factors into account to predict flight prices.
+
+Nowadays, the number of people using flights has increased significantly. It is difficult for airlines to maintain prices since prices change dynamically due to different conditions. That’s why we will try to use machine learning to solve this problem.
 
 ## Motivation
-While most of the students like me spending their precious time on PUBG, Instead I am very passionate in AI and Data Science.So I decided to spend my precious time on learning to gear up my knowledge and my life. During this lockdown period I have learnt countless things related to Data Science, Machine Learning and AI. I just took baby step and start to collect lots of images of cotton crop plants from my farm. To collect accurate data we need expertise in that domain andit will very helpfil for every farmers a lot.
 
-Then I decide which algorithm is best to solve this problem and I select as usual you know “Convolution Neural Network” (CNN). I create my own CNN architecture and it works well on the training and as well as testing dataset.
-
-I always love to share my knowledge with my friends and helps on solving their coding related problems with my best and they also help me on learning new things and keeps motivating me. Though it is a small range of community, I want to share my knowledge to everyone. Whenever I wants relaxation, I write blogs to stay relevant. You can see all my blogs by clicking <a href="https://medium.com/@Nivitus." target="_blank">here</a>.
+During this lockdown period I have learnt countless things related to Data Science, Machine Learning and AI. I always love to share my knowledge with my friends and helps on solving their coding related problems with my best and they also help me on learning new things and keeps motivating me. Though it is a small range of community, I want to share my knowledge to everyone. Whenever I wants relaxation, I write blogs to stay relevant. You can see all my blogs by clicking <a href="https://medium.com/@Nivitus." target="_blank">here</a>.
 
 
 ## Technical Aspects
@@ -57,12 +56,12 @@ To run my app on your local machine, do the following steps.
    - Clone my repository to your local machine by running the following command. Before doing this, you have to install git on your machine and make sure you are having proper internet connection.
       - For **Windows OS** user, open *git bash* and run the following command.
       ```bash
-      git clone https://github.com/Nivitus/Deep-Learning-Projects.git
+      git clone https://github.com/Nivitus/Machine-Learning-Projects.git
       ```
       
       - For **Linus OS** user, open *Terminal* and run the following command.
       ```bash
-      git clone https://github.com/Nivitus/Deep-Learning-Projects.git
+      git clone https://github.com/Nivitus/Machine-Learning-Projects.git
       ```
    
    - If you don't want to mess up with all these things, you can just download the *zip* file of my GitHub repository by clicking [here](https://github.com/Nivitus/Machine-Learning-Projects/archive/master.zip) and extract it to any file location as your wish and then use it.
@@ -98,7 +97,7 @@ To run my app on your local machine, do the following steps.
    ```
 
 ## About Dataset
-For this project I have download dataset form [Kaggel](https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset) . In this dataset there are three folders like train , test and validation folder . In this dataset there are 4 category like diseased cotton leaf , diseased cotton plant , fresh cotton leaf , fresh cotton plant.
+For this project I have download dataset form [Kaggel](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh). In this dataset there are three folders like train , test and validation folder . In this dataset features like Departure time, Arrival Time, Source, Destination, Stopage and Airline Service Names.
 
 ## Deployment on Heroku
 - After successfully running my app on your local machine, you can also deploy my app on heroku by following the steps given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python). You have to do it on your own risk.
@@ -116,9 +115,9 @@ These features will be added in the future :
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/Nivitus/Deep-Learning-Projects/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/Nivitus/Machine-Learning-Projects/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/Nivitus/Deep-Learning-Projects/issues/new/choose). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/Nivitus/Machine-Learning-Projects/issues/new/choose). Please include sample queries and their corresponding results.
 
 ## Technologies Used
 
