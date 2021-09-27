@@ -102,7 +102,9 @@ For this project I have download dataset form [Kaggel](https://www.kaggle.com/ni
 ## Deployment on Heroku
 - After successfully running my app on your local machine, you can also deploy my app on heroku by following the steps given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python). You have to do it on your own risk.
 - In case, if you have any issues on deploying the app, please open a new issue by clicking [here](https://github.com/Nivitus/Machine-Learning-Projects/issues/new/choose). Because it may help others while deploying.
+- Here is the Deployment link [click here](https://flightfare7.herokuapp.com/)
 
+![flight](Images/fd.JPG)  
 
 ## To Do
 
