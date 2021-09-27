@@ -1,7 +1,6 @@
 # Flight-Price-Prediction
- # Cotton-Disease-Detection
-
-![Cotton](Images/cotton.jpg)  
+ 
+![airplane](Images/air.jpg)  
 
 ## Table of Content ##
 - [Demo](#demo)
@@ -21,7 +20,7 @@
 
 ## Demo
 
-![Cotton](Images/cot.gif)  
+![flight](Images/flight.gif)  
 
 ## Overview
 
